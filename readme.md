@@ -2,6 +2,31 @@ Renz Bryan Sampang
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+# Activity 1
+
+![Activity 1](/images/activity1.png)
+
+# Activity 2
+
+![Activity 2](/images/activity2.png)
+
+# Activity 3
+
+![Activity 3](/images/activity3.png)
+
+# Activity 4
+
+![Activity 4.1](/images/activity4_1.png)
+
+![Activity 4.2](/images/activity4_2.png)
+
+# Activity 5
+ 
+ **Functional Requirement:** Add functionality to choose courses and organize them by semester.
+
+ **Non-Functional Requirement:** Coursefinder links should not result in an error and should successfully redirect to the correct course's page.
+
+
 # CARTE Education Pathways
 
 ## Description
